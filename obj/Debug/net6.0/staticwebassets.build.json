@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1NFKTZp3jufSHgXNr5c4MoVHWtZ/JEPH+FTCqKCYvbU=",
+  "Source": "hotelbooking-app",
+  "BasePath": "_content/hotelbooking-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
